@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Team" max_length="40" name="x_282391_simplidev_team" type="collection">
+        <element label="DocID" max_length="40" name="docid" type="integer"/>
+        <element label="GroupMembersID" max_length="40" name="groupmembersid" type="integer"/>
+        <element label="TeamID" max_length="40" name="teamid" type="integer"/>
+        <element label="TeamLeadID" max_length="40" name="teamleadid" type="integer"/>
+    </element>
+</database>

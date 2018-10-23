@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="User" max_length="40" name="x_282391_simplidev_user" type="collection">
+        <element label="Password" max_length="40" name="password" type="string"/>
+        <element label="UserID" max_length="40" name="userid" type="integer"/>
+    </element>
+</database>

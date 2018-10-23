@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="otherfield1" label="OtherField1" language="en" table="x_282391_simplidev_documents">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>otherfield1</element>
+            <help/>
+            <hint/>
+            <label>OtherField1</label>
+            <language>en</language>
+            <name>x_282391_simplidev_documents</name>
+            <plural>OtherField1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-23 22:09:01</sys_created_on>
+            <sys_id>7e6600d64f1123004adfa88ca310c75e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>OtherField1</sys_name>
+            <sys_package display_value="SimpliDev" source="x_282391_simplidev">b593f2f54f1123004adfa88ca310c76f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SimpliDev">b593f2f54f1123004adfa88ca310c76f</sys_scope>
+            <sys_update_name>sys_documentation_x_282391_simplidev_documents_otherfield1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:09:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

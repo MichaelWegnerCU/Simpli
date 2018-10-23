@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Documents" max_length="40" name="x_282391_simplidev_documents" type="collection">
+        <element default="javascript: global.getNextObjNumberPadded() ;" label="DocID" max_length="32" name="docid" type="integer"/>
+        <element label="DocName" max_length="40" name="docname" type="string"/>
+        <element choice="1" label="DocType" mandatory="true" max_length="40" name="doctype" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="SLDR" sequence="0" value="sldr"/>
+                <element inactive_on_update="false" label="NDA" sequence="1" value="nda"/>
+                <element inactive_on_update="false" label="SOW" sequence="2" value="sow"/>
+            </choice>
+        </element>
+        <element label="OtherField1" max_length="40" name="otherfield1" type="boolean"/>
+        <element default="javascript: global.getNextObjNumberPadded() ;" label="TeamID" max_length="40" name="teamid" type="integer"/>
+        <index name="index">
+            <element name="docid"/>
+        </index>
+    </element>
+</database>

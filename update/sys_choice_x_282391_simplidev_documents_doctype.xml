@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="doctype" table="x_282391_simplidev_documents" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>doctype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SLDR</label>
+            <language>en</language>
+            <name>x_282391_simplidev_documents</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-23 22:37:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9fc001e4f1123004adfa88ca310c77a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:37:37</sys_updated_on>
+            <value>sldr</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>doctype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NDA</label>
+            <language>en</language>
+            <name>x_282391_simplidev_documents</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-23 22:37:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7dfc001e4f1123004adfa88ca310c77b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:37:37</sys_updated_on>
+            <value>nda</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>doctype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SOW</label>
+            <language>en</language>
+            <name>x_282391_simplidev_documents</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-23 22:37:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9fc001e4f1123004adfa88ca310c77c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:37:37</sys_updated_on>
+            <value>sow</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>doctype</element>
+            <name>x_282391_simplidev_documents</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-23 22:37:37</sys_created_on>
+            <sys_id>75fc001e4f1123004adfa88ca310c77b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>doctype</sys_name>
+            <sys_package display_value="SimpliDev" source="x_282391_simplidev">b593f2f54f1123004adfa88ca310c76f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SimpliDev">b593f2f54f1123004adfa88ca310c76f</sys_scope>
+            <sys_update_name>sys_choice_x_282391_simplidev_documents_doctype</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:37:37</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
